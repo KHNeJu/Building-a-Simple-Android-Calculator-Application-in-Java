@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Máy tính đơn giản</string>
+    <string name="app_name">Máy tính khoa học</string>
     <string name="test_button">Nút tạo bằng XML</string>
-    <string name="calculator_title">Máy tính đơn giản</string>
+    <string name="calculator_title">Máy tính khoa học</string>
     <string name="first_number">Số thứ nhất</string>
     <string name="second_number">Số thứ hai</string>
     <string name="result_placeholder">Kết quả: —</string>
@@ -20,4 +20,8 @@
     <string name="decimal">Dấu thập phân</string>
     <string name="equals">Bằng</string>
     <string name="error">Lỗi</string>
+    <string name="toggle_scientific">Ẩn hoặc hiện các hàm khoa học</string>
+    <string name="history_title">Lịch sử tính toán</string>
+    <string name="history_empty">Chưa có phép tính nào</string>
+    <string name="backspace">Xóa ký tự cuối</string>
 </resources>
