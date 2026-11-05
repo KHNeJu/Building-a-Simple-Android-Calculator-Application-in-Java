@@ -10,4 +10,14 @@
     <string name="enter_two_numbers">Hãy nhập đủ hai số</string>
     <string name="invalid_number">Số không hợp lệ</string>
     <string name="cannot_divide_by_zero">Không thể chia cho 0</string>
+    <string name="clear">Xóa</string>
+    <string name="toggle_sign">Đổi dấu</string>
+    <string name="percent">Phần trăm</string>
+    <string name="divide">Chia</string>
+    <string name="multiply">Nhân</string>
+    <string name="subtract">Trừ</string>
+    <string name="add">Cộng</string>
+    <string name="decimal">Dấu thập phân</string>
+    <string name="equals">Bằng</string>
+    <string name="error">Lỗi</string>
 </resources>
